@@ -76,7 +76,10 @@ The system combines cloud-based monitoring with on-device decision making, makin
 ## Blynk Configuration
 
 https://www.youtube.com/watch?v=zB4rY-dn7UY
-Watch this video for reference.
+watch this video for reference.
+
+https://blynk.cloud/dashboard/690792/global/devices/1/organization/690792/devices/2121202/dashboard
+blynk console with the template for temperature and humidity monitoring.
 
 ### Template Setup
 
