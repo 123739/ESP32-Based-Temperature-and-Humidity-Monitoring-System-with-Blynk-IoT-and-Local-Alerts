@@ -75,6 +75,9 @@ The system combines cloud-based monitoring with on-device decision making, makin
 
 ## Blynk Configuration
 
+https://www.youtube.com/watch?v=zB4rY-dn7UY
+Watch this video for reference.
+
 ### Template Setup
 
 Create a template in the Blynk Console and use the following:
